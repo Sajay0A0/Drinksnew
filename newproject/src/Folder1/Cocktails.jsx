@@ -13,7 +13,7 @@ export default function Drinks() {
       <div className="mt-5 prod-div" style={{ display: 'flex', justifyContent: 'center' }}>
         <div className="prod-div-1" >
           <h1 className="mt-5 prod-div-2" >
-            <b className="head-1" >____</b> <p className="titles">DRINKS </p><b className="head-1" >____</b>
+            <b className="head-1" >____</b> <p className="titles">BRUNCH COCKTAILS </p><b className="head-1" >____</b>
           </h1>
           <div className="container-fluid">
             <div className="row">
