@@ -6,7 +6,7 @@ import '../folderstyles/Drinks.css';  // Import your custom CSS file
 export default function Drinks() {
   const { product } = useContext(myContext);
 
-  const cocktail = product.filter((p) => p.specify === 'cocktail');
+  const cocktail  = product.filter((p) => p.specify === "cocktail ");
 
   return (
     <div >
